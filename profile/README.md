@@ -18,5 +18,5 @@
     * Sets up and moderates the course of all these types of interactions, documenting the stages of 
       conversations, AI responses, and momentary decisions made by the human participants.
 </pre>
-#### How can AI be useful for business?
+#### How can AI be useful?
 [How can AI/Language Models help business?](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business)
