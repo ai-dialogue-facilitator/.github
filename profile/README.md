@@ -8,8 +8,7 @@
 #### What does he do?
 <pre>
   AI Dialog Facilitator performs the following tasks:
-    * Formulates tasks for the AI model(s) used by the company, ensuring a reasonable expectation 
-      of success.
+    * Formulates tasks for the AI model(s) used by the company, ensuring a reasonable expectation of success.
     * Collects and organizes materials and data to provide descriptive context to and documented precedents 
       for interactions with the company’s AI.
     * Recommends the appropriate form of interaction with AI for each task, such as one-on-one dialogue, 
