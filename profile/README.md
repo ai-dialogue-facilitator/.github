@@ -19,4 +19,4 @@
       conversations, AI responses, and momentary decisions made by the human participants.
 </pre>
 #### How can AI be useful?
-[How can AI/Language Models help business?](https://github.com/ai-dialogue-facilitator/how-can-ai-help-business)
+[Portfolio of examples](https://github.com/ai-dialogue-facilitator/portfolio)
