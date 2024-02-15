@@ -7,7 +7,7 @@
 </pre>
 #### What does he do?
 <pre>
-  * Formulates tasks for the AI model(s) used by the company, ensuring a reasonable expectation of success.
+  * He formulates tasks for the AI model(s) used by the company, ensuring a reasonable expectation of success.
   * Collects and organizes materials and data to provide descriptive context for interactions with the company’s AI.
   * Recommends the appropriate form of interaction with AI for each task, such as one-on-one dialogue, 
     group conversation with AI, or multilateral conversation involving multiple copies of AI with adversarial 
