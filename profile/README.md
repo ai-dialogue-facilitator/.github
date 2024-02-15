@@ -5,7 +5,7 @@
   he leads the dialogue, interprets and communicates interim outcomes, and iterates the process as needed 
   to attain a concrete outcome.
 </pre>
-#### What does he do?
+#### What exactly does he do?
 <pre>
   * He formulates tasks for the AI model(s) used by the company, ensuring a reasonable expectation of success.
   * Collects and organizes materials and data to provide descriptive context for interactions with the
