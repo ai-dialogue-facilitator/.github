@@ -17,4 +17,4 @@
     conversations, AI responses, and momentary decisions made by the human participants.
 </pre>
 #### How can AI be useful?
-<b>[Portfolio of examples](https://github.com/ai-dialogue-facilitator/portfolio)</b>
+### [Portfolio of examples](https://github.com/ai-dialogue-facilitator/portfolio)
