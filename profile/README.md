@@ -16,5 +16,3 @@
   * Sets up and moderates the course of all these types of interactions, documenting the stages of 
     conversations, AI responses, and momentary decisions made by the human participants.
 </pre>
-#### How can AI be useful?
-## [Portfolio of examples](https://github.com/ai-dialogue-facilitator/portfolio)
